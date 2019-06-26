@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+c = int(input())
+print(sorted([a, b, c], reverse=True).index(a) + 1)
+print(sorted([a, b, c], reverse=True).index(b) + 1)
+print(sorted([a, b, c], reverse=True).index(c) + 1)
