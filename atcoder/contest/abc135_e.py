@@ -1,4 +1,3 @@
-k = int(input())
-x, y = map(int, input().split())
-
+for c in input():
+    print(c)
 
