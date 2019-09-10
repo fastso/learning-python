@@ -1,0 +1,11 @@
+l, h = map(int, input().split())
+n = int(input())
+
+for i in range(n):
+    a = int(input())
+    if a < l:
+        print(l - a)
+    elif a > h:
+        print(-1)
+    else:
+        print(0)
