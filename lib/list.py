@@ -19,3 +19,7 @@ l_unique = list(set(l))
 # 重複要素を削除する（もとの順序を保証する）
 l_unique_order = sorted(set(l), key=l.index)
 # l_unique_order = [3, 2, 1, 5, 4]
+
+# 多次元リストの1列を抽出する
+t = [[1, 3], [3, 2], [2, 2], [3, 1]]
+ans = [t[1] for i in t]
