@@ -22,4 +22,4 @@ l_unique_order = sorted(set(l), key=l.index)
 
 # 多次元リストの1列を抽出する
 t = [[1, 3], [3, 2], [2, 2], [3, 1]]
-ans = [t[1] for i in t]
+ans = [i[1] for i in t]
