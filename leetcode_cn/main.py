@@ -1,5 +1,5 @@
-from leetcode_cn.dynamic_programming.pg_312 import Solution
+from leetcode_cn.dynamic_programming.pg_256 import Solution
 
 s = Solution()
-ans = s.maxCoins([3,1,5,8])
+ans = s.minCost([[17, 2, 17], [16, 16, 5], [14, 3, 19]])
 print(ans)
