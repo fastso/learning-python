@@ -1,5 +1,5 @@
-from leetcode_cn.problems.string.pg_14 import Solution
+from leetcode_cn.problems.string.pg_7 import Solution
 
 s = Solution()
-ans = s.longestCommonPrefix(["aca", "cba"])
+ans = s.reverse(90000)
 print(ans)
