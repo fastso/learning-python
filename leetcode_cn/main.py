@@ -1,5 +1,5 @@
-from leetcode_cn.solved.pg_234 import Solution
+from leetcode_cn.solved.pg_118 import Solution
 
 s = Solution()
-ans = s.isPalindrome()
+ans = s.generate(5)
 print(ans)
