@@ -1,5 +1,5 @@
-from leetcode_cn.solved.pg_118 import Solution
+from leetcode_cn.solved.pg_55 import Solution
 
 s = Solution()
-ans = s.generate(5)
+ans = s.canJump([2,0,0])
 print(ans)
