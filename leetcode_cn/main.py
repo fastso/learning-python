@@ -1,5 +1,5 @@
-from leetcode_cn.solved.pg_55 import Solution
+from leetcode_cn.pg_3 import Solution
 
 s = Solution()
-ans = s.canJump([2,0,0])
+ans = s.lengthOfLongestSubstring(' ')
 print(ans)
