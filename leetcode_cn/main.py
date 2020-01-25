@@ -1,5 +1,5 @@
-from leetcode_cn.biweekly18_b import Solution
+from leetcode_cn.biweekly18_d import Solution
 
 s = Solution()
-ans = s.breakPalindrome("aba")
+ans = s.maxValueAfterReverse([2,3,1,5,4])
 print(ans)
