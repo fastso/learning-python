@@ -1,5 +1,5 @@
-from leetcode_cn.pg_3 import Solution
+from leetcode_cn.biweekly18_b import Solution
 
 s = Solution()
-ans = s.lengthOfLongestSubstring(' ')
+ans = s.breakPalindrome("aba")
 print(ans)
