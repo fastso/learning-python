@@ -18,4 +18,6 @@ def prime_factorization(n: int) -> List[int]:
         while n % prime == 0:
             ans.append(prime)
             n //= prime
+    if n != 1:
+        ans.append(n)
     return ans
