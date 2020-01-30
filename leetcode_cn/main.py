@@ -1,4 +1,4 @@
-from leetcode_cn.biweekly18_d import Solution
+from leetcode_cn.solved.biweekly18_d import Solution
 
 s = Solution()
 ans = s.maxValueAfterReverse([2,3,1,5,4])
