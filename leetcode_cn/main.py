@@ -1,5 +1,5 @@
-from leetcode_cn.Contest.biweekly18_d import Solution
+from leetcode_cn.solved.pg_1085 import Solution
 
 s = Solution()
-ans = s.maxValueAfterReverse([2,3,1,5,4])
+ans = s.sumOfDigits([99,77,33,66,55])
 print(ans)
