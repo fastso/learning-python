@@ -10,6 +10,12 @@ bin(23)  # 10進数 -> 2進数 '0b10111'
 oct(23)  # 10進数 -> 8進数 '0o27'
 hex(23)  # 10進数 -> 16進数 '0x17'
 
+# str -> ascii
+ord('A')  # 97
+
+# ascii -> str
+chr(65)  # 'A'
+
 # str -> List[int]
 s = '1234'
 l = [int(_) for _ in list(s)]
