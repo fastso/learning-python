@@ -66,6 +66,7 @@ def is_same_tree(p: TreeNode, q: TreeNode) -> bool:
 def max_depth(root: TreeNode) -> int:
     """
     计算二叉树的最大深度
+    深さ優先探索
     :param root:
     :return:
     """
@@ -81,3 +82,28 @@ def max_depth(root: TreeNode) -> int:
             stack.append((current_depth + 1, node.left))
             stack.append((current_depth + 1, node.right))
     return ans
+
+
+def min_depth(root: TreeNode) -> int:
+    """
+    计算二叉树的最小深度
+    幅優先探索
+    :param root:
+    :return:
+    """
+    que = [root]
+    depth = 0
+    if not root:
+        return depth
+
+    while que:
+        depth += 1
+        level_size = len(que)
+        for i in range(level_size):
+            node = que.pop(0)
+            if node:
+                if not node.left and not node.right:
+                    return depth
+                que.append(node.left)
+                que.append(node.right)
+
