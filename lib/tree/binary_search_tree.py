@@ -61,3 +61,23 @@ def is_same_tree(p: TreeNode, q: TreeNode) -> bool:
         else:
             return False
     return True
+
+
+def max_depth(root: TreeNode) -> int:
+    """
+    计算二叉树的最大深度
+    :param root:
+    :return:
+    """
+    ans = 0
+    stack = []
+    if root:
+        stack.append((1, root))
+
+    while stack:
+        current_depth, node = stack.pop()
+        if node:
+            ans = max(ans, current_depth)
+            stack.append((current_depth + 1, node.left))
+            stack.append((current_depth + 1, node.right))
+    return ans
