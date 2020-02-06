@@ -35,4 +35,29 @@ def range_sum_bst(root: TreeNode, L: int, R: int) -> int:
     return ans
 
 
+def is_same_tree(p: TreeNode, q: TreeNode) -> bool:
+    """
+    给定两个二叉树，检验它们是否相同。
+    :param p:
+    :param q:
+    :return:
+    """
+    stack_p = [p]
+    stack_q = [q]
 
+    while stack_p or stack_q:
+        node_p = stack_p.pop()
+        node_q = stack_q.pop()
+
+        if not node_p and not node_q:
+            continue
+        elif node_p and node_q:
+            if node_p.val != node_q.val:
+                return False
+            stack_p.append(node_p.left)
+            stack_p.append(node_p.right)
+            stack_q.append(node_q.left)
+            stack_q.append(node_q.right)
+        else:
+            return False
+    return True
