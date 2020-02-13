@@ -14,6 +14,9 @@ def digit_dp(s: str) -> int:
 
     # 初期化
     dp[0][0][0] = 1
+    dp[0][0][1] = 0
+    dp[0][1][0] = 0
+    dp[0][1][1] = 0
 
     for i in range(s_len):
         d = int(s[i])
