@@ -27,7 +27,8 @@ https://qiita.com/drken/items/dc53c683d6de8aeacf5a#d-%E5%95%8F%E9%A1%8C---knapsa
 n, w = map(int, input().split())
 item = [list(map(int, input().split())) for i in range(n)]
 
-dp = [[0 for i in range(w + 1)] for j in range(n + 1)]
+# dp[i][j]
+dp = [[0 for j in range(w + 1)] for i in range(n + 1)]
 
 # i: i 番目のアイテム
 # sum_w: 総容量 sum_w の場合
