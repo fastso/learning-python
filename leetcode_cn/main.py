@@ -1,5 +1,5 @@
-from leetcode_cn.solved.pg_1282 import Solution
+from leetcode_cn.solved.pg_763 import Solution
 
 s = Solution()
-ans = s.groupThePeople([3,3,3,3,3,1,3])
+ans = s.partitionLabels('ababcbacadefegdehijhklij')
 print(ans)
