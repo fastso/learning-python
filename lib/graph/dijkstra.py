@@ -42,17 +42,16 @@ class Dijkstra:
 
         return list(reversed(path))
 
-
-n = int(input())
-s, t = map(int, input().split())
-route_map = [dict() for _ in range(n)]
-for i in range(n):
-    u, v, a = map(int, input().split())
-    u, v = u - 1, v - 1
-    route_map[u][v] = a
-
-# 返回从起点到每个顶点的最短距离的列表
-dijkstra_result = Dijkstra(route_map, s - 1).execute()
-
-# 从起点到终点的最短距离
-dijkstra_result = Dijkstra(route_map, s - 1, t - 1).execute()
+# n = int(input())
+# s, t = map(int, input().split())
+# route_map = [dict() for _ in range(n)]
+# for i in range(n):
+#     u, v, a = map(int, input().split())
+#     u, v = u - 1, v - 1
+#     route_map[u][v] = a
+#
+# # 返回从起点到每个顶点的最短距离的列表
+# dijkstra_result = Dijkstra(route_map, s - 1).execute()
+#
+# # 从起点到终点的最短距离
+# dijkstra_result = Dijkstra(route_map, s - 1, t - 1).execute()
