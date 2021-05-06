@@ -1,7 +1,6 @@
-from leetcode_cn.solved.pg_763 import Solution
+from leetcode_cn.solved.pg_724 import Solution
 
 s = Solution()
-ans = s.partitionLabels('ababcbacadefegdehijhklij')
+ans = s.pivotIndex([1, 2, 3])
 print(ans)
 
-s.p
