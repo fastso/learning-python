@@ -17,7 +17,7 @@ class Solution:
             for j in range(2):
                 for k in range(2):
                     if j:
-                        temp = 9
+                        temp = 9-----------------------------------------------------------------------------------------------------------------------
                     else:
                         temp = d
                     for x in range(temp + 1):

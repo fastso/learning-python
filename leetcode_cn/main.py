@@ -1,6 +1,11 @@
-from leetcode_cn.solved.pg_724 import Solution
+from leetcode_cn.pg_1734 import Solution
+from datetime import date
+import numpy as np
 
 s = Solution()
-ans = s.pivotIndex([1, 2, 3])
+ans = s.decode([3, 1])
 print(ans)
+
+print(np.random.normal(5, 10, 5))
+
 
