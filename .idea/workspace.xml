@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reverse</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="58bea5da-c6ab-4617-90cd-850b346b12e8" />
+  <component name="ProjectId" id="1Oav3MWzEYGrXIQneu8xxcGKfy7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode_cn" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\leetcode_cn" />
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\atcoder\contest" />
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\leetcode_cn\contest" />
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\lib\dynammic_programming\0-1_knapsack_problem" />
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\lib\dynammic_programming\digit_dp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\lib\depth_first_search" />
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\leetcode_cn\solved" />
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\atcoder\contest\solved" />
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\lib\traversal\bit_traversal\practice" />
+      <recent name="C:\Users\lihui\IdeaProjects\learning-python\lib\Traversal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="learning-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lihui\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abc159_a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lihui\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atcoder/contest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lihui\IdeaProjects\learning-python\atcoder\contest\solved\abc159_a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abc159_b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lihui\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atcoder/contest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lihui\IdeaProjects\learning-python\atcoder\contest\solved\abc159_b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abc159_c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lihui\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atcoder/contest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lihui\IdeaProjects\learning-python\atcoder\contest\solved\abc159_c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abc159_d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lihui\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atcoder/contest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lihui\IdeaProjects\learning-python\atcoder\contest\solved\abc159_d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lihui\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_cn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_cn/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.abc159_d" />
+        <item itemvalue="Python.abc159_c" />
+        <item itemvalue="Python.abc159_b" />
+        <item itemvalue="Python.abc159_a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="" />
+      <created>1561360694606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561360694606</updated>
+      <workItem from="1561360696088" duration="10939000" />
+      <workItem from="1561514389231" duration="2329000" />
+      <workItem from="1561599641490" duration="7437000" />
+      <workItem from="1561687470590" duration="1722000" />
+      <workItem from="1561945655083" duration="10343000" />
+      <workItem from="1562061746673" duration="6761000" />
+      <workItem from="1562213815066" duration="4045000" />
+      <workItem from="1562292566368" duration="3748000" />
+      <workItem from="1562315535908" duration="9545000" />
+      <workItem from="1562652937005" duration="5863000" />
+      <workItem from="1562816274684" duration="40844000" />
+      <workItem from="1563355280863" duration="3001000" />
+      <workItem from="1563416101115" duration="16153000" />
+      <workItem from="1563513766975" duration="14209000" />
+      <workItem from="1563763665296" duration="15226000" />
+      <workItem from="1563869310118" duration="26043000" />
+      <workItem from="1564228341776" duration="221000" />
+      <workItem from="1564228612806" duration="17620000" />
+      <workItem from="1564453340930" duration="27698000" />
+      <workItem from="1564727901734" duration="6335000" />
+      <workItem from="1564919443933" duration="31812000" />
+      <workItem from="1565070674635" duration="10728000" />
+      <workItem from="1565143069795" duration="622000" />
+      <workItem from="1565146850072" duration="6118000" />
+      <workItem from="1565230070543" duration="5309000" />
+      <workItem from="1565332546264" duration="4374000" />
+      <workItem from="1565752175554" duration="11206000" />
+      <workItem from="1565923329541" duration="13068000" />
+      <workItem from="1566282008302" duration="3342000" />
+      <workItem from="1566382093030" duration="1152000" />
+      <workItem from="1566469430099" duration="435000" />
+      <workItem from="1566469925712" duration="30000" />
+      <workItem from="1566470038108" duration="230000" />
+      <workItem from="1566526961236" duration="5210000" />
+      <workItem from="1566785201264" duration="5032000" />
+      <workItem from="1566878170532" duration="2334000" />
+      <workItem from="1566971944002" duration="2166000" />
+      <workItem from="1567044655501" duration="4935000" />
+      <workItem from="1567071203130" duration="816000" />
+      <workItem from="1567140748251" duration="2715000" />
+      <workItem from="1567391920782" duration="5373000" />
+      <workItem from="1567479878071" duration="7739000" />
+      <workItem from="1567585226955" duration="59000" />
+      <workItem from="1567585313683" duration="12615000" />
+      <workItem from="1567735928618" duration="15040000" />
+      <workItem from="1567856676878" duration="246000" />
+      <workItem from="1567857003081" duration="19234000" />
+      <workItem from="1568548269463" duration="7870000" />
+      <workItem from="1568695067623" duration="1359000" />
+      <workItem from="1568772179958" duration="2307000" />
+      <workItem from="1568860268434" duration="3817000" />
+      <workItem from="1568954916728" duration="24328000" />
+      <workItem from="1569463853094" duration="5130000" />
+      <workItem from="1569552699688" duration="41000" />
+      <workItem from="1569552788311" duration="10552000" />
+      <workItem from="1569896139141" duration="513000" />
+      <workItem from="1569911626352" duration="779000" />
+      <workItem from="1569980021857" duration="5114000" />
+      <workItem from="1570163444803" duration="1342000" />
+      <workItem from="1570415161279" duration="437000" />
+      <workItem from="1570437632989" duration="3185000" />
+      <workItem from="1570613741746" duration="2714000" />
+      <workItem from="1570789541946" duration="648000" />
+      <workItem from="1571119703782" duration="3546000" />
+      <workItem from="1571883626657" duration="1191000" />
+      <workItem from="1571986632640" duration="808000" />
+      <workItem from="1572078936311" duration="10477000" />
+      <workItem from="1572250997864" duration="1806000" />
+      <workItem from="1572510317289" duration="1342000" />
+      <workItem from="1572591448527" duration="259000" />
+      <workItem from="1572591746841" duration="7429000" />
+      <workItem from="1572938796210" duration="1408000" />
+      <workItem from="1573027990199" duration="7136000" />
+      <workItem from="1573191555490" duration="6572000" />
+      <workItem from="1573464394673" duration="5018000" />
+      <workItem from="1573705118682" duration="80000" />
+      <workItem from="1573705219063" duration="2313000" />
+      <workItem from="1573904291984" duration="7475000" />
+      <workItem from="1574058191483" duration="1445000" />
+      <workItem from="1574149377014" duration="4549000" />
+      <workItem from="1574300871784" duration="1066000" />
+      <workItem from="1574306529506" duration="44545000" />
+      <workItem from="1574645005440" duration="52000" />
+      <workItem from="1574645078582" duration="13005000" />
+      <workItem from="1574673509559" duration="22400000" />
+      <workItem from="1574928190019" duration="3000" />
+      <workItem from="1574929705817" duration="16000" />
+      <workItem from="1574938435587" duration="11976000" />
+      <workItem from="1575452675835" duration="17195000" />
+      <workItem from="1575861362991" duration="12354000" />
+      <workItem from="1575966552579" duration="634000" />
+      <workItem from="1575968735391" duration="97000" />
+      <workItem from="1575968875979" duration="36000" />
+      <workItem from="1575968940405" duration="64000" />
+      <workItem from="1575969031737" duration="9315000" />
+      <workItem from="1576806383379" duration="4000" />
+      <workItem from="1576825213329" duration="1338000" />
+      <workItem from="1577252749948" duration="317000" />
+      <workItem from="1577253179408" duration="5729000" />
+      <workItem from="1577410998759" duration="242000" />
+      <workItem from="1578292119982" duration="2081000" />
+      <workItem from="1578967064194" duration="1905000" />
+      <workItem from="1578972425999" duration="2035000" />
+      <workItem from="1579050778894" duration="7332000" />
+      <workItem from="1579227840048" duration="4297000" />
+      <workItem from="1579432215099" duration="7963000" />
+      <workItem from="1579443868978" duration="3818000" />
+      <workItem from="1579757064016" duration="1470000" />
+      <workItem from="1579958135893" duration="13836000" />
+      <workItem from="1580044476075" duration="12255000" />
+      <workItem from="1580362769122" duration="1667000" />
+      <workItem from="1580366774822" duration="21069000" />
+      <workItem from="1580565304985" duration="1959000" />
+      <workItem from="1580716149708" duration="12196000" />
+      <workItem from="1580886470636" duration="955000" />
+      <workItem from="1580892094250" duration="1032000" />
+      <workItem from="1580898320990" duration="43307000" />
+      <workItem from="1581495339380" duration="47000" />
+      <workItem from="1581495471729" duration="13355000" />
+      <workItem from="1581591725232" duration="3413000" />
+      <workItem from="1581655458640" duration="7000" />
+      <workItem from="1581666696540" duration="12518000" />
+      <workItem from="1581864990305" duration="4000" />
+      <workItem from="1581901578112" duration="11142000" />
+      <workItem from="1582104448311" duration="610000" />
+      <workItem from="1582192078136" duration="8852000" />
+      <workItem from="1582262055188" duration="4576000" />
+      <workItem from="1582592634980" duration="1175000" />
+      <workItem from="1582600218676" duration="2043000" />
+      <workItem from="1582637921684" duration="5009000" />
+      <workItem from="1582765049266" duration="7537000" />
+      <workItem from="1582883171337" duration="13269000" />
+      <workItem from="1583130778721" duration="4463000" />
+      <workItem from="1583229749027" duration="18556000" />
+      <workItem from="1583390169300" duration="25003000" />
+      <workItem from="1583999462742" duration="11329000" />
+      <workItem from="1584186491961" duration="7275000" />
+      <workItem from="1584195217728" duration="102000" />
+      <workItem from="1584343152862" duration="16299000" />
+      <workItem from="1584928670387" duration="2396000" />
+      <workItem from="1585147096169" duration="3577000" />
+      <workItem from="1585824436280" duration="1135000" />
+      <workItem from="1586849663487" duration="599000" />
+      <workItem from="1587736827528" duration="602000" />
+      <workItem from="1588836460394" duration="4000" />
+      <workItem from="1588902523881" duration="3000" />
+      <workItem from="1589852976892" duration="639000" />
+      <workItem from="1589857197354" duration="4350000" />
+      <workItem from="1590568998597" duration="1192000" />
+      <workItem from="1590977595553" duration="165000" />
+      <workItem from="1590977887931" duration="52000" />
+      <workItem from="1592920204102" duration="521000" />
+      <workItem from="1592920782765" duration="1953000" />
+      <workItem from="1592967976989" duration="1994000" />
+      <workItem from="1598853420396" duration="53000" />
+      <workItem from="1606373103968" duration="598000" />
+      <workItem from="1606378306528" duration="1473000" />
+      <workItem from="1606437908937" duration="754000" />
+      <workItem from="1611456530410" duration="1423000" />
+      <workItem from="1620284852974" duration="670000" />
+      <workItem from="1620285664970" duration="4257000" />
+      <workItem from="1620645504408" duration="4490000" />
+      <workItem from="1620650033658" duration="4753000" />
+      <workItem from="1621865880237" duration="1861000" />
+      <workItem from="1622423207549" duration="1000" />
+      <workItem from="1622423860940" duration="3016000" />
+      <workItem from="1623764626201" duration="1597000" />
+      <workItem from="1624010579961" duration="1389000" />
+      <workItem from="1626330399456" duration="2076000" />
+      <workItem from="1626764087644" duration="649000" />
+      <workItem from="1626857863989" duration="1573000" />
+      <workItem from="1627527100306" duration="18000" />
+      <workItem from="1631862674405" duration="1673000" />
+      <workItem from="1632233991538" duration="39000" />
+      <workItem from="1632565077140" duration="1451000" />
+      <workItem from="1632791361647" duration="643000" />
+      <workItem from="1632896151526" duration="208000" />
+      <workItem from="1637809038727" duration="955000" />
+      <workItem from="1642149725889" duration="727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_cn/pg_1012.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_cn/pg_233.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_cn/pg_233.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/atcoder/contest/solved/abc157_c.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/graph/dijkstra.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/atcoder/contest/solved/abc158_d.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="arr.__len__()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learning_python$abc157_e.coverage" NAME="abc157_e Coverage Results" MODIFIED="1583068557010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc157_b.coverage" NAME="abc157_b Coverage Results" MODIFIED="1583064786996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc159_a.coverage" NAME="abc159_a Coverage Results" MODIFIED="1584878754852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$type_conversation.coverage" NAME="type_conversation Coverage Results" MODIFIED="1580892021920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/learning_python$abc158_c.coverage" NAME="abc158_c Coverage Results" MODIFIED="1583585952857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc154_e.coverage" NAME="abc154_e Coverage Results" MODIFIED="1581255570686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$lucky_pin.coverage" NAME="lucky_pin Coverage Results" MODIFIED="1584528778905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/traversal/pruning/practice" />
+    <SUITE FILE_PATH="coverage/learning_python$abc155_c.coverage" NAME="abc155_c Coverage Results" MODIFIED="1581855232570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$leetcode1012.coverage" NAME="leetcode1012 Coverage Results" MODIFIED="1581502191421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming/digit_dp" />
+    <SUITE FILE_PATH="coverage/learning_python$digit_dp.coverage" NAME="digit_dp Coverage Results" MODIFIED="1581333434154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming" />
+    <SUITE FILE_PATH="coverage/learning_python$daruma_otoshi.coverage" NAME="daruma_otoshi Coverage Results" MODIFIED="1584088136491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming/interval_dp/practice" />
+    <SUITE FILE_PATH="coverage/learning_python$common_lib.coverage" NAME="common_lib Coverage Results" MODIFIED="1583315484309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/learning_python$single_source_shortest_path.coverage" NAME="single_source_shortest_path Coverage Results" MODIFIED="1583395331954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/graph/practice/dijkstra" />
+    <SUITE FILE_PATH="coverage/learning_python$str.coverage" NAME="str Coverage Results" MODIFIED="1582193578000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/learning_python$abc159_d.coverage" NAME="abc159_d Coverage Results" MODIFIED="1592921566719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$pg_1180.coverage" NAME="pg_1180 Coverage Results" MODIFIED="1581648623646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn" />
+    <SUITE FILE_PATH="coverage/learning_python$abc154_d.coverage" NAME="abc154_d Coverage Results" MODIFIED="1581251039687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$panasonic2020_b.coverage" NAME="panasonic2020_b Coverage Results" MODIFIED="1584187655375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc153_c.coverage" NAME="abc153_c Coverage Results" MODIFIED="1580040571597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc152_b.coverage" NAME="abc152_b Coverage Results" MODIFIED="1579434908828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc149_b.coverage" NAME="abc149_b Coverage Results" MODIFIED="1584351116504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$biweekly19_b.coverage" NAME="biweekly19_b Coverage Results" MODIFIED="1581172891453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc155_e.coverage" NAME="abc155_e Coverage Results" MODIFIED="1581859655215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc154e.coverage" NAME="abc154e Coverage Results" MODIFIED="1581674655269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming/digit_dp" />
+    <SUITE FILE_PATH="coverage/learning_python$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1583738136780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming" />
+    <SUITE FILE_PATH="coverage/learning_python$abc158_a.coverage" NAME="abc158_a Coverage Results" MODIFIED="1583582748661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc007d__1_.coverage" NAME="abc007d (1) Coverage Results" MODIFIED="1581489946047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming/digit_dp" />
+    <SUITE FILE_PATH="coverage/learning_python$abc159_b.coverage" NAME="abc159_b Coverage Results" MODIFIED="1584879343065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc152_c.coverage" NAME="abc152_c Coverage Results" MODIFIED="1579435852917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$0_1_knapsack_problem.coverage" NAME="0-1_knapsack_problem Coverage Results" MODIFIED="1582553111090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming/0-1_knapsack_problem" />
+    <SUITE FILE_PATH="coverage/learning_python$abc159_c.coverage" NAME="abc159_c Coverage Results" MODIFIED="1584879357166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$panasonic2020_c.coverage" NAME="panasonic2020_c Coverage Results" MODIFIED="1584188656190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc157_a.coverage" NAME="abc157_a Coverage Results" MODIFIED="1583064093450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc153_d.coverage" NAME="abc153_d Coverage Results" MODIFIED="1580041059928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc158_b.coverage" NAME="abc158_b Coverage Results" MODIFIED="1583582960273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$main.coverage" NAME="main Coverage Results" MODIFIED="1632234018127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn" />
+    <SUITE FILE_PATH="coverage/learning_python$karaoke.coverage" NAME="karaoke Coverage Results" MODIFIED="1584432273472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/traversal/practice" />
+    <SUITE FILE_PATH="coverage/learning_python$bit_traversal.coverage" NAME="bit_traversal Coverage Results" MODIFIED="1584528874170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/traversal/bit_traversal" />
+    <SUITE FILE_PATH="coverage/learning_python$abc152_d.coverage" NAME="abc152_d Coverage Results" MODIFIED="1580264742326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc153_b.coverage" NAME="abc153_b Coverage Results" MODIFIED="1580040263839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc155_d.coverage" NAME="abc155_d Coverage Results" MODIFIED="1581855991280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$panasonic2020_a.coverage" NAME="panasonic2020_a Coverage Results" MODIFIED="1584187307460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc155_a.coverage" NAME="abc155_a Coverage Results" MODIFIED="1581854535564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc157_c.coverage" NAME="abc157_c Coverage Results" MODIFIED="1583069721188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc154_c.coverage" NAME="abc154_c Coverage Results" MODIFIED="1581250015820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$panasonic2020_d.coverage" NAME="panasonic2020_d Coverage Results" MODIFIED="1584193144472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc153_e.coverage" NAME="abc153_e Coverage Results" MODIFIED="1580457579452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$coin_changing.coverage" NAME="coin_changing Coverage Results" MODIFIED="1583740652147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming/0-1_knapsack_problem" />
+    <SUITE FILE_PATH="coverage/learning_python$biweekly18_c.coverage" NAME="biweekly18_c Coverage Results" MODIFIED="1579965295872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn" />
+    <SUITE FILE_PATH="coverage/learning_python$pg_1281.coverage" NAME="pg_1281 Coverage Results" MODIFIED="1580802598069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn" />
+    <SUITE FILE_PATH="coverage/learning_python$pg_118.coverage" NAME="pg_118 Coverage Results" MODIFIED="1577410013778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn" />
+    <SUITE FILE_PATH="coverage/learning_python$abc153_f.coverage" NAME="abc153_f Coverage Results" MODIFIED="1580718442369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$pg_1021.coverage" NAME="pg_1021 Coverage Results" MODIFIED="1580872499020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn/solved" />
+    <SUITE FILE_PATH="coverage/learning_python$abc152_e.coverage" NAME="abc152_e Coverage Results" MODIFIED="1579438505142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc154_a.coverage" NAME="abc154_a Coverage Results" MODIFIED="1581249846991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1581674251509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn" />
+    <SUITE FILE_PATH="coverage/learning_python$pg_1252.coverage" NAME="pg_1252 Coverage Results" MODIFIED="1581045394177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn" />
+    <SUITE FILE_PATH="coverage/learning_python$how_many_ways.coverage" NAME="how_many_ways Coverage Results" MODIFIED="1584429027232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/traversal/practice" />
+    <SUITE FILE_PATH="coverage/learning_python$basic_digit_dp.coverage" NAME="basic_digit_dp Coverage Results" MODIFIED="1581500257694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming/digit_dp" />
+    <SUITE FILE_PATH="coverage/learning_python$abc155_b.coverage" NAME="abc155_b Coverage Results" MODIFIED="1581854722409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$filename_list.coverage" NAME="filename_list Coverage Results" MODIFIED="1583064066368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/learning_python$abc158_d.coverage" NAME="abc158_d Coverage Results" MODIFIED="1583585639078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc158_e.coverage" NAME="abc158_e Coverage Results" MODIFIED="1583588287265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc154_b.coverage" NAME="abc154_b Coverage Results" MODIFIED="1581249866907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$abc153_a.coverage" NAME="abc153_a Coverage Results" MODIFIED="1580040114380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atcoder/contest" />
+    <SUITE FILE_PATH="coverage/learning_python$tdpc_a_contest.coverage" NAME="tdpc_a_contest Coverage Results" MODIFIED="1582553287566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/dynammic_programming/0-1_knapsack_problem" />
+    <SUITE FILE_PATH="coverage/learning_python$abc157_d.coverage" NAME="abc157_d Coverage Results" MODIFIED="1583298702132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/union_find" />
+  </component>
+</project>

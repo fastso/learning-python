@@ -1,0 +1,4 @@
+
+ppython:S100"RRename method "isArmstrong" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ô‹ÄÓ8¤Æ©Œ„.
+tpython:S117"VRename this local variable "N_len" to match the regular expression ^[_a-z][a-z0-9_]*$.(©Ü•Û8¤Æ©Œ„.
+kpython:S117"MRename this parameter "N" to match the regular expression ^[_a-z][a-z0-9_]*$.(ô‹ÄÓ8¤Æ©Œ„.

@@ -1,0 +1,6 @@
+
+qpython:S3776	"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(‚µ’Ïúÿÿÿÿ
+Bpython:S1481
+"%Remove the unused local variable "i".(¬ÔÄÎùÿÿÿÿ
+Bpython:S1481
+"%Remove the unused local variable "j".(¬ÔÄÎùÿÿÿÿ
