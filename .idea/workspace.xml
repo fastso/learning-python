@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_468.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_83.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_2016.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_2016.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,7 +436,7 @@
       <workItem from="1652061725551" duration="151000" />
       <workItem from="1652338993275" duration="153000" />
       <workItem from="1653804576182" duration="3440000" />
-      <workItem from="1653808074082" duration="8161000" />
+      <workItem from="1653808074082" duration="14461000" />
     </task>
     <servers />
   </component>
