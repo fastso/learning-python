@@ -1,11 +1,6 @@
-from leetcode_cn.pg_1734 import Solution
-from datetime import date
-import numpy as np
+from leetcode_cn.solved.pg_1022 import Solution
 
 s = Solution()
-ans = s.decode([3, 1])
-print(ans)
-
-print(np.random.normal(5, 10, 5))
+ans = s.sumRootToLeaf()
 
 
