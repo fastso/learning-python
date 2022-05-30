@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_1022.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_468.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1022.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_27.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -437,7 +437,7 @@
       <workItem from="1652061725551" duration="151000" />
       <workItem from="1652338993275" duration="153000" />
       <workItem from="1653804576182" duration="3440000" />
-      <workItem from="1653808074082" duration="7201000" />
+      <workItem from="1653808074082" duration="8161000" />
     </task>
     <servers />
   </component>
