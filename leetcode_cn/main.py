@@ -1,6 +1,5 @@
-from leetcode_cn.solved.pg_1022 import Solution
+from pg_532 import Solution
 
+data = [3,1,4,1,5]
 s = Solution()
-ans = s.sumRootToLeaf()
-
-
+print(s.findPairs(data, 2))
