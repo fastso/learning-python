@@ -1,5 +1,4 @@
 from pg_532 import Solution
 
-data = [3,1,4,1,5]
-s = Solution()
-print(s.findPairs(data, 2))
+for i,v in enumerate(sorted(set([10,20,20])), 1):
+    print(i,v)
