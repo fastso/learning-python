@@ -2,63 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/contest/solved/biweekly92_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/contest/solved/biweekly92_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/contest/solved/biweekly92_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_1710.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_459.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_775.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_918.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1491.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1523.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1704.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_200.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_2105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_213.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_300.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_332.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_373.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_70.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_733.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_740.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_764.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_790.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_792.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_864.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_896.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_150.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_1012.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_1224.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1224.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_1237.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1237.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_1302.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1302.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_1408.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1408.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_1475.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1475.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_1656.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1656.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_1720.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1720.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_1734.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_1734.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_2006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_233.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_233.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_342.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_342.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_373.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/contest/biweekly92_d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_404.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_404.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_441.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_441.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_468.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_468.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_515.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_515.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_532.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_532.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_556.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_556.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_729.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_729.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_732.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_732.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_741.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_741.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_749.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_749.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_761.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_761.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/pg_871.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_871.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/problems/dynamic_programming/pg_53.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/problems/dynamic_programming/pg_53.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/solved/pg_55.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_55.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -533,7 +478,7 @@
       <workItem from="1667211752161" duration="5658000" />
       <workItem from="1667891079275" duration="36293000" />
       <workItem from="1668648391233" duration="2000" />
-      <workItem from="1668648419292" duration="17877000" />
+      <workItem from="1668648419292" duration="18925000" />
     </task>
     <servers />
   </component>
