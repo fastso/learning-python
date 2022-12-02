@@ -1,4 +1,4 @@
-from leetcode_cn.pg_233 import Solution
+from leetcode_cn.solved.pg_233 import Solution
 
 # エラトステネスの篩
 # print(sieve_of_eratosthenes.seive_of_eratosthenes(10000))

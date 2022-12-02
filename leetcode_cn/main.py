@@ -1,4 +1,6 @@
-from pg_532 import Solution
+from pg_45 import Solution
 
-for i,v in enumerate(sorted(set([10,20,20])), 1):
-    print(i,v)
+sol = Solution()
+
+data = 2, 4, 6, 8
+print(data)
