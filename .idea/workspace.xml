@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="Default Changelist" />
+    <list default="true" id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find/quick_union.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find/quick_union.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -476,7 +478,7 @@
       <workItem from="1667891079275" duration="36293000" />
       <workItem from="1668648391233" duration="2000" />
       <workItem from="1668648419292" duration="20386000" />
-      <workItem from="1670120808228" duration="25235000" />
+      <workItem from="1670120808228" duration="25544000" />
     </task>
     <servers />
   </component>

@@ -3,6 +3,7 @@ class UnionFind:
     Quick Find
     root[]: Index 節点の番号　Value 根の番号
     計算量: find O(1) union O(N) connected O(1)
+    https://leetcode.cn/leetbook/read/graph/r3cr3r/
     """
 
     def __init__(self, size):
