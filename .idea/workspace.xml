@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/contest/solved/weekly332_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/contest/solved/weekly332_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/contest/weekly332_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/contest/weekly332_d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find/quick_find.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/pg_106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_cn/solved/pg_144.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="Default Changelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/li/IdeaProjects/learning-python/leetcode_cn",
+    "last_opened_file_path": "/Users/li/IdeaProjects/learning-python/leetcode_cn/learn/graph/union_find",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -78,11 +68,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find" />
       <recent name="$PROJECT_DIR$/leetcode_cn" />
       <recent name="$PROJECT_DIR$/leetcode_cn/contest" />
       <recent name="$PROJECT_DIR$/leetcode_cn/solved" />
       <recent name="C:\Users\lihui\IdeaProjects\learning-python\leetcode_cn" />
-      <recent name="C:\Users\lihui\IdeaProjects\learning-python\atcoder\contest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leetcode_cn/solved" />
@@ -486,7 +476,7 @@
       <workItem from="1667891079275" duration="36293000" />
       <workItem from="1668648391233" duration="2000" />
       <workItem from="1668648419292" duration="20386000" />
-      <workItem from="1670120808228" duration="25134000" />
+      <workItem from="1670120808228" duration="25235000" />
     </task>
     <servers />
   </component>

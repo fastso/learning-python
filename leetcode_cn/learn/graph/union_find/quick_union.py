@@ -10,15 +10,15 @@ class UnionFind:
         self.root = [i for i in range(size)]
 
     def find(self, x):
-        return self.root[x]
+        while x != self.root[x]:
+            x = self.root[x]
+        return x
 
     def union(self, x, y):
         x_root = self.find(x)
         y_root = self.find(y)
         if x_root != y_root:
-            for i in range(self.size):
-                if self.root[i] == y_root:
-                    self.root[i] = x_root
+            self.root[y_root] = x_root
 
     def connected(self, x, y):
         return self.find(x) == self.find(y)
