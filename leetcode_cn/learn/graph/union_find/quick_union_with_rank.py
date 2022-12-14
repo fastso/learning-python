@@ -1,7 +1,7 @@
 class UnionFind:
     """
     Quick Union with Rank
-    union関数を改良し、偏りが発生しないように、木の高さが低い方を高い方につなげる。
+    union関数の改良：偏りが発生しないように、木の高さが低い方を高い方につなげる。
     root[]: Index 節点の番号　Value 親節点の番号
     計算量: find O(logN) union O(logN) connected O(logN)
     https://leetcode.cn/leetbook/read/graph/r3yaqt/
