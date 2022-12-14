@@ -4,7 +4,7 @@ class UnionFind:
     find関数の改良：経路圧縮
     root[]: Index 節点の番号　Value 親節点の番号
     計算量: find O(H) union O(H) connected O(H)　Hは木の高さ
-    https://leetcode.cn/leetbook/read/graph/r3yaqt/
+    https://leetcode.cn/leetbook/read/graph/r3jhud/
     """
 
     def __init__(self, size):
