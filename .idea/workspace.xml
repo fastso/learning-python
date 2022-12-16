@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae784f6b-81ea-460a-be41-2b8482bbed95" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find/quick_union_with_path_compression.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find/quick_union_with_path_compression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find/quick_union_with_rank.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find/quick_union_with_rank.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,24 +54,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/li/IdeaProjects/learning-python/leetcode_cn/learn/graph/union_find",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/li/IdeaProjects/learning-python/leetcode_cn&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find" />
       <recent name="$PROJECT_DIR$/leetcode_cn" />
+      <recent name="$PROJECT_DIR$/leetcode_cn/learn/graph/union_find" />
       <recent name="$PROJECT_DIR$/leetcode_cn/contest" />
       <recent name="$PROJECT_DIR$/leetcode_cn/solved" />
       <recent name="C:\Users\lihui\IdeaProjects\learning-python\leetcode_cn" />
@@ -86,7 +84,7 @@
       <recent name="C:\Users\lihui\IdeaProjects\learning-python\atcoder\contest\solved" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.abc159_d">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="learning-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,12 +217,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -480,7 +472,9 @@
       <workItem from="1667891079275" duration="36293000" />
       <workItem from="1668648391233" duration="2000" />
       <workItem from="1668648419292" duration="20386000" />
-      <workItem from="1670120808228" duration="28359000" />
+      <workItem from="1670120808228" duration="29140000" />
+      <workItem from="1671079461730" duration="2664000" />
+      <workItem from="1671175987328" duration="101000" />
     </task>
     <servers />
   </component>
@@ -511,9 +505,5 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/learning_python_iml$main.coverage" NAME="main のカバレッジ結果" MODIFIED="1670123196262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn" />
-    <SUITE FILE_PATH="coverage/learning_python_iml$main__1_.coverage" NAME="main (1) のカバレッジ結果" MODIFIED="1668472808471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_cn/contest" />
   </component>
 </project>
